@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **zhynin/zhynin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Wechat applet, achine learning, cloud computing and big data.
+
+- 🌱 I’m currently learning
+
+- 📫 How to reach me: mshing@yeah.net, mosheing@foxmail.com, remlrtor@gmail.com
+
+## Connect with Me 🤝🏻
+
+
