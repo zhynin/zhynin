@@ -2,7 +2,7 @@
 
 <!--
 **zhynin/zhynin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zhynin&show_icons=true) 
+
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhynin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on Wechat applet, achine learning, cloud computing and big data.
 
